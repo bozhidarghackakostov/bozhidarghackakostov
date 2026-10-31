@@ -1,3 +1,4 @@
+- [ABOUT ME]([url](https://website-cloudflare.zw55fbnzbv.workers.dev))
 - 👋 Hi, I’m @bozhidarghackakostov
 - 👀 I’m interested in UI/UX Design, JS, Python, Swift, HTML, CSS and Java
 - 🌱 I’m currently building my portfolio around offline projects. I believe in privacy, and to me, true privacy means using offline applications and having complete control over your data and everything you do.
